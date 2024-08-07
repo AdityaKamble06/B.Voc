@@ -1,0 +1,38 @@
+***Program***
+A set of instruction is called as a Program.
+
+***Programming Language***
+A Programming Language is a set of instruction written by a Programmer.
+To deliever intruction to the computer to perfrom an accomplish a task.
+
+***C Language***
+a C Language is developed by Dennis Ritchie in 1972 at bell laboratories
+of AT and T (American Telephone and Telegraph) located in USA.
+
+Initally C Language was developed to be used in UNIX operating system.
+
+C is knowns to be the mother of programming language.Because,most of the 
+compiler are written in C language which are developed after C language a 
+borrowed family from the language:- C++, java, python.
+
+***Features***
+C is procedural programming language is also known as structural
+programming language.
+
+this is a technique in which large programming language is broken down 
+into smaller modules and each modules used structural code.This technique
+is used to minimize error.
+
+C is bit level programming.Because, it binds the low level and high level 
+programming language.
+
+C is high level language provide strong abstraction in case of library and 
+built-in feature that make machine independent.
+
+C is small language.Small keywords does not support object oriented programming.
+
+C is core protable language.That means ones the program is written, can be run on 
+any machine language.
+
+C is knowns to be general purpose programming language for building software in a 
+wide variety of application domain.
