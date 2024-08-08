@@ -1,0 +1,24 @@
+***Algorithm***
+An Algorithm is a process or step by step instruction for solving a problem they
+form the foundation of writing a program.
+
+An algorithm is a sequence of instructions that carried out to pre-determine.
+Sequence in order to solve a problem or complete a work.
+
+The word algorithm means "A set of finite rule or instructions to be followed in Calculation or other 
+problem solving operation.
+                                   
+                                  /`````````````````````````\
+                                 /                           \
+                                /      Set of rule to         \
+  /`````````/                  /         obtain the            \                           /`````````/        
+ /  Input  / ---------------> /        expected  output         \-----------------------> / Output  /
+/........./                   \         from the given          /                        /........./         
+                               \            output             /
+                                \                             /
+                                 \                           / 
+                                  \........................./
+
+
+***Features of Algorithm***
+1)Input :- Algorithm must recieved 
