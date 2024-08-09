@@ -21,4 +21,25 @@ problem solving operation.
 
 
 ***Features of Algorithm***
-1)Input :- Algorithm must recieved 
+1)Input :- Algorithm must recieved input that can be represented as value or data.
+2)Output:- The Algorithm produce some output it can be consequence of a problem or
+           a solution desgined to solve it.
+3)Finiteness:- The algorithm required limited steps it means that it shoould be excited 
+               after executing a certain numbers of command.
+4)Validity:- The Algorithm must be valid in other words it should be able to produce solution through 
+             the problem that the algorithm is designed to solving a resonable ammount of time.
+5)Effectiveness:- An algorithm must be effective meaning that it must be able to produce a solution to
+                  the problem it is desgined to solving a resonable ammount of time.
+6)Generality:- An algorithm must be general meaning that it can be applied to a wide range of problem 
+               rather than mean specific to a single problem.
+
+#Basic writing of Algorithm
+Example:- The sum of two integers.
+
+Step 1:- Get Started.
+Step 2:- Declare three integers a,b,c.
+Step 3:- Define the values of a and b.
+Step 4:- Add the values of a and b.
+Step 5:- Save the output of step 4 in c.
+Step 6:- Print C.
+Step 7:- Stop.
