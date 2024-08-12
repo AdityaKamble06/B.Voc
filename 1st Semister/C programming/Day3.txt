@@ -1,20 +1,37 @@
 #Advantages of Algorithm
-1)Speed and efficiency:- Algorithm can process large amount of data quickly and accurately making them usefull 
-                         for task that are too time consuming or error-prone for people to perform.
-2)Consistency:- Algorithm follows a set of perdetermined guidelines it can produce consitance result.
 
-3)Automation:- Algorithm can perform task automatically leaving people to focus all more complex all
-               creative task.
-4)Increased a      :- Achieve high level algorithm can often achieve high level of accuracy than human.
-                      is specially when dealing it large amount of data
-5)Better decision making:- Algorithm help us to make both inform and objective decision and analysing 
-                           of the data.
+1)Speed and efficiency:- Algorithm can process large amount of data quickly and accurately.
+making them useful for tasks that are too time_comsumminh or error-prone for people to perform.
 
+2)Consistency:- Algorithm follow a set of predetermined guidelines.It can prodece 
+consistent result without being influenced by personal biases and emotions.
 
+3)Automation:- Algorithms can perform tasks automatically.leaving 
+people free to focus on more complex or creative tasks.
 
+4)Increased accuracy:- Algorithms can often achieve higher levels of accuracy than humans,espacially when 
+dealing with large amounts of data.
 
-1)Limited Scope:- Algorithm cana solved only problems with their scope and me not be able to solve 
-                  complex problem.
-2)In sufficient transparency:-Many algorithm cancel the process through which they are to the consume.
-                              Thiss called make it tough to thing about or check to resume it.
-3)Reliance on the finess of the data:- 
+5)Better Decision Making:- Algorithms help us make more informed and objective decisions by analyzing data and 
+identifying patterns and trends that are not easily visible to people.
+
+6)Scalability:- Algorithms can be easily sacled up or down to meet changing demands and workloads.
+
+#Disadvantages of the Algorithm
+
+1)Limited Scope:- Algorithms can only solve problems within their scope and may not be able to solve
+complex or abstarct problems.
+
+2)Bias:- Algorithms can perpetuate and reinforce biases in the data used for training.leading to unfair
+results.
+
+3)Insufficiant teransparency:- Many algorithms conceal the process through which they arrive at their
+conclusions.This could make it tough to think about or check the results.
+
+4)Reliance on the fineness of the data:- The correctness of the set of rules is heavily dependent on the
+fineness and applicability of the data utilised in instruction.Inaccurate or inaccurate effects may be the 
+result of faulty data.
+
+5)Restrained adaptability:- Algorithms are ddesgined to follow guidelines and won't adapt to changing circumstances
+and conditions.
+
