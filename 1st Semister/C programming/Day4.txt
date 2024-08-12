@@ -1,1 +1,16 @@
+#The flowchart in the C Programming language
 
+What do you mean by flowchart?
+The flowchart is the most widely used graphical representation of an algorithm and procedure 
+design workflows.It uses various symbols to show the operations and decisions to be followed
+in program.It flows in sequentiwl order.
+
+Flowchartt symbols:
+The different flowchart symbols 3Thave diffrent conventional meanings.
+
+#The various symbols used in flowchart designs are given below.
+
+1)Terminal Symbol:- In the flowchart it is represented with the help of a circle for denoting the start a 
+stop symbol.The symbol given below is used to represent the terminal symbol.
+
+2)Input/
