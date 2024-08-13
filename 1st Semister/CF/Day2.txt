@@ -1,0 +1,5 @@
+ram = random access memory 
+              |
+    control unit hold info
+
+The major sections of 
