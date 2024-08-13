@@ -1,1 +1,30 @@
 Computer is an electronic device or machine
+
+Input Unit:- Instructions given to the computer through keyboard,is Input unit 
+              Main memory => access input
+              Auxiallary memory => Store input
+
+What is computer?
+>>Computer is an electronic machine or device and arithmetical logical operation perform 
+particulaar task that recieve put store or process the input as per user instrructions and 
+provide output in desired format.
+
+Que:- Explain The Computer Block Diagram
+=> A block Diagram of a computer display of a structure of block diagram of computer display
+structural representation of a computer.the block diagram process of a computer form inputing 
+the data to retreving the desire result the following diagram represented a block diagram of
+computer system.
+
+A compyter system is a combination of three component.
+1)Input Unit
+2)CPU(Central Processing Unit)
+3)Output Unit
+
+1)Input Unit:- The input unit consist of input device such as mouse keyboard scanner,Joystick etc.
+The device is used to input info the input unit converts the inputed data all instructions into binary
+form further processing input unit transmit data to the main memory of computer.
+
+2)CPU:- CPU are Central Processing Unit is known as the brain of the computer system it is an electronic 
+hardware device that process all the opration.
+Example.(Arithmetical and lagre operation of the computer in other words)
+Computer operation comprassion of performance inside the CPU.
