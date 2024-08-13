@@ -1,0 +1,32 @@
+*Advantages of Flowchart in C:
+Following are the various advantages of flowchart:
+1)Communication:- A flowchart is a better way of communicating the logic of a program.
+
+2)Synthesis:- Flowchart is used as working models in desiging new programs and software systems.
+
+3)Efficient Coding:- Flowcharts act as a guide for a programmer in writing the actual code in a high-level
+language.
+
+4)Proper Debugging:- Flowcharts help in the debugging process.
+
+5)Effective Analyisis:- Effective analysis of logical programs can be easily done with the help of a relative 
+flowchart.
+
+6)Proper Documentation:- Flowchart provides better and proper documentation.It consists of various activities 
+such as colllecting,organizing,storing,and maintaining all related program records.
+
+7)Testing:- A flowchart helps in the testing process.
+
+8)Efficient program maintenance:- The maintenace of the program becomes easy with the help of flowchart.
+
+
+
+*Disadavantages of Flowchart in C:
+Following are the various disadvantages of flowchart:
+1)Time-consuming:- Desigining a flowchart is a very time-consuming process.
+
+2)Complex:- It isn't easy to draw a flowchart for large and complex programs.
+
+3)There is no standard in the flowchart there is no standard to determine the quantity of detail.
+
+4)Difficult to modify:- It is very difficult to modify the exisiting flowchart.
