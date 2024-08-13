@@ -13,4 +13,32 @@ The different flowchart symbols 3Thave diffrent conventional meanings.
 1)Terminal Symbol:- In the flowchart it is represented with the help of a circle for denoting the start a 
 stop symbol.The symbol given below is used to represent the terminal symbol.
 
-2)Input/
+2)Input/OUtput Symbol:- The input symbol is used to represent the input data and the output symbol used to 
+display the output operation.
+
+3)Processing Symbol:- is represented in a flowchart with the help of a rectangle box used to represent the 
+arithmetic and data movement instructions.
+
+4)Decision Symbol:- Diamond symbol is used for represents decision-making statements.
+
+5)Connector Symbol:- The connector symbol is used if flows discontinued at some point and continued again
+at another place.
+
+6)Flow lines:-  it represents the exact sequence in which instructions are executed.Arrows are used to
+represent the flow lines in a flowchart.
+
+7)Hexagon symbol(Flat):- It is used to crate a preparation box containing the loop setting statement.
+
+8)On-page Reference Symbol:- The symbol contains a letter inside that indicates the flow continues on a 
+matching symbol containing the same leters somewhere else on the same page.
+
+9)Off-Page Reference:- This symbol contains a letter inside indicating that the flow continues on a matching
+symbol conatining same letter somewhere else on a different page.
+
+10)Delay or Bottleneck:- This symbol is used for identifying a delay in a flowchart.The alternative name used 
+for the delay is the bottleneck.
+
+11)Document Symbol:- This symbol is used in a flowchart to indicate a document or report.
+
+12)Internal Storage Symbol:-The symbol is used to represent the internal storage.
+
