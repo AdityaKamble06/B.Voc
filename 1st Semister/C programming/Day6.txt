@@ -1,0 +1,56 @@
+*Difference between algorithm and flowchart:
+_________________________________________________________________________________________
+S.no |            ALGORITHM                     |           FLOWCHART                   |
+1.   | An algorithm is a step-by-step procedure | A flowchart is a diagram created with |
+     | to solve a problem.                      | diffrent shapes to show the flow of   |
+     |                                          | data.                                 |
+2.   | The algorithm is complex to understand.  | A flowchart is easy to understand.    | 
+3.   | In the algorithm. plain text is used.    | In the flowchart, symbols/shapes are  |
+     |                                          | used.                                 |
+4.   | The algorithm is easy to debug.          | A flowchart is hard to debug.         |
+5.   | The algorithm is difficult to construct. | A flowchart is easy to construct.     |
+6.   | The algorithm does not follow any rules. | The flowchart follows rules too be    |
+     |                                          | constructed.                          |
+7.   | The algorithm is the pseudo-code for the | A flowchart is just a graphical       |
+     | program.                                 | representation of that logic.         |
+8.   | Hard to display branching and looping.   | Simple to display branching and       |
+     |                                          | looping.                              |
+9.   | In algorithms predefined rules are used. | In flowchart no rules are used.       |
+10.  | It is comparitively difficult to crate   | It is easy to design and also very    |
+     | and also a bit challenging to be         | user friendly.                        |
+     | understood by layman.                    |                                       |
+`````````````````````````````````````````````````````````````````````````````````````````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
