@@ -2,4 +2,32 @@ ram = random access memory
               |
     control unit hold info
 
-The major sections of 
+The major sections of a CPU
+1)Conrtol Unit
+2)Arithmetic Logic Unit
+
+1)Control Unit:- a.The Control Unit of a CPU controls all the activities and operation of the computer.
+b.It is also responsible for controlling input or output and memories and other device connected to the CPU.
+c.The control unit act like a supervise which determine the sick rays in which computer programm and instructions 
+are executed.
+
+2)Arithmetic Logic Unit:- The data inputed to input device is store in the primary storage unit.
+a.The ALU perform arithmetic operations such as addition, subtraction, and multiplication another logical control
+unit logical control unit logical operation and or,equal,greater than,less than.
+b.The info are the data is transmit to arithmetical unit from a storage unit only than it is
+required after completing the operation.The result is either written to the storage unit for 
+further processing letting store.
+
+# Memory Units => 1)Memories Units is an essential part of the computer system which is used to store data 
+and instructions before and after processing.
+2)The memory unit transmit the information to other unit of the computer system when required.
+3)There are two types of memory units 
+a.Primary b.Secondary
+
+a.Primary Memory:- 1)The Primary Memory can not store a vast amount of data.
+The data stored primary memory is temparory the data will be lost if they are disconnected from power supplies.
+The primary in usually store the input data and immediately calculate result.
+2)The primary memory also known as the main random access memory(RAM) is an example of primary memeory usually be 
+ a.Volatile    b.Semiconductor   c.Secondary memory
+
+1)The use of primary memories is not possible data permantely for future 
