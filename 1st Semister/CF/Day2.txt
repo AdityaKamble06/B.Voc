@@ -15,7 +15,7 @@ are executed.
 a.The ALU perform arithmetic operations such as addition, subtraction, and multiplication another logical control
 unit logical control unit logical operation and or,equal,greater than,less than.
 b.The info are the data is transmit to arithmetical unit from a storage unit only than it is
-required after completing the operation.The result is either written to the storage unit for 
+required after completing the operation.The result is either written to the storage wunit for 
 further processing letting store.
 
 # Memory Units => 1)Memories Units is an essential part of the computer system which is used to store data 
@@ -30,4 +30,18 @@ The primary in usually store the input data and immediately calculate result.
 2)The primary memory also known as the main random access memory(RAM) is an example of primary memeory usually be 
  a.Volatile    b.Semiconductor   c.Secondary memory
 
-1)The use of primary memories is not possible data permantely for future 
+1)The use of primary memories is not possible data permantely for future access.
+2)Therefore,Some other options to store the data permanently for future use which is 
+knowm as Secondary Memory or Auxillary storage or permanent storage these are external
+storage or no volatile.
+3)The data store in the secondary memory is when there is a power are no power supply.
+4)Device Hard disk is usually consider a secondary memory.
+note:- Are magnetic & optical backup memory,permanently store even if power switch off.
+5)Primary memory is the only memory that is directly accessible to the CPU secondary memory is not directly
+accessible to the CPU.
+
+#Output Unit
+1)The output unit consist od device that are used to display the result or output of processing.
+2)The output data is first store in the memory and then display in numerical from output device.
+3)Some of the widely used out device are monitor,printer & projector.The output unit performs following 
+major functions
