@@ -44,4 +44,6 @@ accessible to the CPU.
 1)The output unit consist od device that are used to display the result or output of processing.
 2)The output data is first store in the memory and then display in numerical from output device.
 3)Some of the widely used out device are monitor,printer & projector.The output unit performs following 
-major functions
+major funtion.The output unit accept the data or information in binary form the main memory of computer.
+4)The Output device unit convert binary data into a human readable for their better understanding.
+
