@@ -3,37 +3,36 @@ The word ‘communication’ is derived from the Latin word, ‘communis’, whi
 common. Communication means to tell, share or spread information. Management gurus
 W.H. Newman and C.F. Summer define communication as an exchange of facts, opinions,
 ideas, or emotions between two or more persons.
+
 Communication is a two-way process. It’s an ever-evolving systematic process that involves
 speaking, listening, and understanding. It could be verbal, nonverbal, or digital
 communication.
+
 Business communication typically includes everything from making or reading reports,
 giving instructions, ideating, making suggestions, and even the way you feel about things.
+
 Efficient business communication can clear misconceptions, reduce errors, and improve
 organizational productivity and performance. With better conversational harmony,
 managers can easily present business ideas and technical information, which can help
 employees feel confident and encouraged to give clear and honest feedback.
-Features of business communication
+
+***Features of business communication***
 Let us look at some features of business communication:
-1. Practical
-Effective business communication considers all the practical aspects of any information.
-It helps facilitate a clear understanding of any topic and avoids impractical and
-unnecessary information.
-2. Factual
-“It is the absence of facts that frightens people,” said novelist Hilary Mantel. No doubt,
-business information contains a lot of facts and figures. Including the right points and
-pertinent facts in your workplace conversation will undoubtedly make it more
-meaningful and effective.
-3. Target-oriented
-Any communication is always received well and is successful when it includes the
-objectives of the targeted audience. For example, a speech on career opportunities will
-strike the right chord with graduating students.
-4. Clear and Brief
-Salim Khan, the famous Bollywood scriptwriter, once said that a good story is easily
-understood by the common man. That’s true for business situations as well. People
-appreciate simple, clear, and brief communication. Business communication that is free
-of jargon and obscure technical language is more effective.
-5. Persuasive
-Efficient business communication easily achieves the goal of persuading people. For
-example, a motivational speech by a CEO can encourage the employees to put in their
-best. Or an articulate salesperson will have no trouble persuading a customer to buy a
-product or service.
+#1. Practical :-Effective business communication considers all the practical aspects of any information.
+                It helps facilitate a clear understanding of any topic and avoids impractical and
+                unnecessary information.
+#2. Factual:-“It is the absence of facts that frightens people,” said novelist Hilary Mantel. No doubt,
+             business information contains a lot of facts and figures. Including the right points and
+             pertinent facts in your workplace conversation will undoubtedly make it more
+             meaningful and effective.
+#3. Target-oriented:-Any communication is always received well and is successful when it includes the
+                     objectives of the targeted audience. For example, a speech on career opportunities will
+                     strike the right chord with graduating students.
+#4. Clear and Brief:-Salim Khan, the famous Bollywood scriptwriter, once said that a good story is easily
+                    understood by the common man. That’s true for business situations as well. People
+                    appreciate simple, clear, and brief communication. Business communication that is free
+                    of jargon and obscure technical language is more effective.
+#5. Persuasive:-Efficient business communication easily achieves the goal of persuading people. For
+                example, a motivational speech by a CEO can encourage the employees to put in their
+                best. Or an articulate salesperson will have no trouble persuading a customer to buy a
+                product or service.
