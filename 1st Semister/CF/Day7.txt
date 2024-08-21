@@ -1,0 +1,16 @@
+# Characteristics Of Computer #
+1)Speed
+2)Accuracy
+3)Diligance
+4)Versality
+
+Q.What are the Characteristics of Computer?
+=>There are various characteristics of computer system depending on their size,capacity and specification but the major
+charcteristics of computer can be classify into 
+1)Speed  2)Accuracy  3)Deligance  4)Vertility  5)Reliablity  6)Consistency  7)Memory  8)Storage Capacity  9)Rememberance power
+10)Automation
+
+1)Speed of Computer:- a.Speed is one of the major characterisitics of computer system.
+b.A computer works so fast that it can process any task and provide the output in function of second.
+c.A powerful computer can handle tolerance of instructions per second which is really incrible for the speed
+of a computer is major in micro-second and nano-second.
