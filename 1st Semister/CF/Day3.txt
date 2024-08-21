@@ -14,3 +14,23 @@ charcteristics of computer can be classify into
 b.A computer works so fast that it can process any task and provide the output in function of second.
 c.A powerful computer can handle tolerance of instructions per second which is really incrible for the speed
 of a computer is major in micro-second and nano-second.
+
+2)Accuracy:-a.Computer not only provide incrible speed instead they also capable of consuting speed working with 
+accuracy.
+b.The degree of accuracy in computer is very high computer can perform calculator at almost 100% Accuracy.
+c.Error many occurs in a computer system but only recalls of wrong human input or inaccurate 
+
+
+
+
+
+
+
+
+
+
+
+
+
+a program is corrected or reliable.
+
