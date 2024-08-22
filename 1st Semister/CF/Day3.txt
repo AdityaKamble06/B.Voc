@@ -18,19 +18,34 @@ of a computer is major in micro-second and nano-second.
 2)Accuracy:-a.Computer not only provide incrible speed instead they also capable of consuting speed working with 
 accuracy.
 b.The degree of accuracy in computer is very high computer can perform calculator at almost 100% Accuracy.
-c.Error many occurs in a computer system but only recalls of wrong human input or inaccurate 
+c.Error many occurs in a computer system but only recalls of wrong human input or inaccurate data.
 
+3)Diligance of Computer:-a.Unlike a human the computer does not get tired or lacks its connection.
+b.Due to this charactristics its over power human being is most of the regular task.
+c.It can burst for hours without any fault this means that 3 millions of calculation are to hidden a computer in 
+performance every calculation and provide all the result with same accuracy.
 
+4)Versality of Computer:-a.Versality is one of the most wonderful feature of computer this means that the computer 
+this means that the computer has the ability of performance completely different kind of works with the same accuracy
+and efficiency at the same time.It is not just a calculation machine anymore.
+for ex.For one moment it can be used to create invoices or bills and tax moment,it can be used for inventory management 
+or any multi media task.
 
-
-
-
-
-
-
-
-
-
-
+5)Reliablity:-The result obtained by they are very reliable.But this is true only when the data give to the computer 
 a program is corrected or reliable.
 
+6)Consistency:- a.The computer is so consistent that is it can perform tolerance of process without error for several hours.
+b.This means that we can use computer 24 hours a day or 365 days a year continously performance it provide consistency in the
+form of some set of data.
+
+7)Memory of Computer:-a.A memory of computer has a big built in memory where it can store distant 
+b.Random access memory (Primary memory) that holds data as long as computer is connected to a power source
+Computer including rom(Read only memory)
+
+8)Storage Capacity:-a.Computer can store vast amount of data today's computer have increased storing capacity compared to
+earlier day.
+b.We also have the option to store data in secondary device such as external device or floppy disk.
+c.This secondary device can be kept separated from the computer all attached to other computer.
+d.The storage capacity of the computer is commonly measured in mega-byte,giga-byte(gb),tera-byte(tb) & peta-byte(pb)
+
+9)Remembrance Power:-a.
