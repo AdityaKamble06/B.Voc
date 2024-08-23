@@ -48,4 +48,18 @@ b.We also have the option to store data in secondary device such as external dev
 c.This secondary device can be kept separated from the computer all attached to other computer.
 d.The storage capacity of the computer is commonly measured in mega-byte,giga-byte(gb),tera-byte(tb) & peta-byte(pb)
 
-9)Remembrance Power:-a.
+9)Remembrance Power:-a.The computer has the power to store any data or information for as long as we like data can also be recall easily.
+b.It is our choice to decide how much data we want to store on the computer & when to recall & erase this data.
+
+10)Automation:-a.Computer can also be used to automate routined task with the help of a task schedular such as launching
+a specific application or software.
+b.Sending an email scanning for viruses many other maintanance task.
+c.Daily computers can also be programmed to performs many complex task.
+foe example,the computer can start daily maintanence task automatically when it is this include task such as software update,
+security scanning,& system diagonasting.
+
+#Limitions of Computer
+1.The computer itself can not function.It needs a set of instructions to perform of process to talk.
+2.Computer cant think or feel like human they can only work accroding to the instructions.
+3.Power is required to operate the computer and unaccepeted problem or error can occurs in the            of a breakdown of
+a system.
