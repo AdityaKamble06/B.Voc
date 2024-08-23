@@ -3,6 +3,12 @@
 2)Accuracy
 3)Diligance
 4)Versality
+5)Reliablity  
+6)Consistency  
+7)Memory  
+8)Storage Capacity  
+9)Rememberance power
+10)Automation
 
 Q.What are the Characteristics of Computer?
 =>There are various characteristics of computer system depending on their size,capacity and specification but the major
